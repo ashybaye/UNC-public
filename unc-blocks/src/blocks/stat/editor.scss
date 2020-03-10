@@ -1,0 +1,22 @@
+/** === CSS for GB editor === */
+
+.editor-styles-wrapper {
+
+  .wp-block-unc-stat-block {
+    margin: 1rem 0;
+    border: solid 1px lightgrey;
+    text-align: center;
+
+    .stat-number-wrapper {
+      margin: 1rem auto;
+    }
+
+    .stat-number {
+      font-size: 5rem;
+      color: #0f4876;
+      text-align: center;
+      line-height: 80px;
+      margin: 0 auto;
+    }
+  }
+}
